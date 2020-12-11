@@ -4,16 +4,15 @@ from twilio.rest import Client
 from twilio_credentials import cellphone, twilio_account, twilio_token, twilio_number
 
 GOOD_MORNING = [
-    "Good Morning Love!",
-    "Good Morning Lovely!",
+    "Good Morning",
+    "Good Morning!",
     "Hope you have a great day today",
-    "Love you, I know you will slay the day"
+    "Hey, I know you will slay the day"
 ]
 
 GOOD_EVENING = [
-    "Good Evening Love",
-    "Sleep Tight My Love!",
-    "Love you!"
+    "Good Evening",
+    "Sleep Tight!",
 ]
 
 
